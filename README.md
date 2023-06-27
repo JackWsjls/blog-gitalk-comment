@@ -1,2 +1,1 @@
-# blog-gitalk-comment
-blog-gitalk-comment
+博客: <http://wsjls.site/wsjls/weblog/>
