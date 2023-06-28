@@ -1,1 +1,1 @@
-博客: <http://wsjls.site/weblog/>
+博客: <http://blog.wsjls.site/>
